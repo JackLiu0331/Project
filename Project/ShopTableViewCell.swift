@@ -12,9 +12,16 @@ class ShopTableViewCell: UITableViewCell {
 
     
     
+<<<<<<< HEAD
     var idProduct = 0
     var chipsQuantity = 0.0
     var userName = "Player"
+=======
+    var idProduct:Int
+    var chipsQuantity:Double
+    var userName:String
+    
+>>>>>>> e6219a52203a3a0842f14b30407bc7fc86d756da
     
     override func awakeFromNib() {
         super.awakeFromNib()
