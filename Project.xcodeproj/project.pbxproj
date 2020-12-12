@@ -17,6 +17,9 @@
 		28A488A6257C557F00591984 /* ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A488A5257C557F00591984 /* ProjectUITests.swift */; };
 		28A488B6257C744900591984 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A488B5257C744900591984 /* GameViewController.swift */; };
 		28A488B8257CA1E800591984 /* FinalPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A488B7257CA1E800591984 /* FinalPageViewController.swift */; };
+		F82109E9257EEEDC00391A3A /* ShopTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F82109E8257EEEDC00391A3A /* ShopTableViewCell.swift */; };
+		F8E5199225857B1B00AD9143 /* StoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E5199125857B1B00AD9143 /* StoreViewController.swift */; };
+		F8E5199425857B3300AD9143 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E5199325857B3300AD9143 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		28A488A7257C557F00591984 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28A488B5257C744900591984 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GameViewController.swift; path = ../GameViewController.swift; sourceTree = "<group>"; };
 		28A488B7257CA1E800591984 /* FinalPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalPageViewController.swift; sourceTree = "<group>"; };
+		F82109E8257EEEDC00391A3A /* ShopTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopTableViewCell.swift; sourceTree = "<group>"; };
+		F8E5199125857B1B00AD9143 /* StoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreViewController.swift; sourceTree = "<group>"; };
+		F8E5199325857B3300AD9143 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +118,9 @@
 				28A4888C257C557F00591984 /* Assets.xcassets */,
 				28A4888E257C557F00591984 /* LaunchScreen.storyboard */,
 				28A48891257C557F00591984 /* Info.plist */,
+				F82109E8257EEEDC00391A3A /* ShopTableViewCell.swift */,
+				F8E5199125857B1B00AD9143 /* StoreViewController.swift */,
+				F8E5199325857B3300AD9143 /* ProfileViewController.swift */,
 			);
 			path = Project;
 			sourceTree = "<group>";
@@ -268,8 +277,11 @@
 				28A488B6257C744900591984 /* GameViewController.swift in Sources */,
 				28A48888257C557E00591984 /* ViewController.swift in Sources */,
 				28A488B8257CA1E800591984 /* FinalPageViewController.swift in Sources */,
+				F82109E9257EEEDC00391A3A /* ShopTableViewCell.swift in Sources */,
 				28A48884257C557E00591984 /* AppDelegate.swift in Sources */,
 				28A48886257C557E00591984 /* SceneDelegate.swift in Sources */,
+				F8E5199425857B3300AD9143 /* ProfileViewController.swift in Sources */,
+				F8E5199225857B1B00AD9143 /* StoreViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
